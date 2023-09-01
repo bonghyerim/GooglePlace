@@ -201,7 +201,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-                    
+
                     mapFragment.getMapAsync(new OnMapReadyCallback() {
                         @Override
                         public void onMapReady(@NonNull GoogleMap googleMap) {
